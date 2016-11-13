@@ -1,5 +1,7 @@
-# Computer Systems Organization: Recitation 11
+Computer Systems Organization: Recitation 11
 ==========
 
-## Exercise -- Symbol Table
+Exercise -- Symbol Table
 -----
+
+
