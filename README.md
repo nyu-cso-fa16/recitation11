@@ -45,6 +45,7 @@ For each symbol that is defined and referenced in swap.o, indicate if it will ha
 | incr          | 					   | 			 | 						|		  |
 | count         | 					   | 			 | 						|		  |
 
+Fill the table above.
 
 Exercise 2: Linking
 -----
