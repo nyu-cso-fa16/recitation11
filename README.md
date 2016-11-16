@@ -45,7 +45,7 @@ For each symbol that is defined and referenced in swap.o, indicate if it will ha
 | incr          | 					   | 			 | 						|		  |
 | count         | 					   | 			 | 						|		  |
 
-Fill the table above.
+Assuming that the above implementation resides in `swap.c`, and the swap() function is called in `main.c`, fill the table above. 
 
 Exercise 2: Linking
 -----
